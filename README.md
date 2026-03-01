@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sajib Debnath 
 
-<!--
-**sajibdebnath-26/sajibdebnath-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Chemistry Graduate  
+💊 Computer Aided Drug Design (CADD) Enthusiast  
+📊 Aspiring Industry Professional  
+---
+🔹 Skills
+- Computer Aided Drug Design (CADD)
+- Microsoft Excel
+- SQL (MySQL)
+- Power BI
+---
+🎯 Career Goal
+To build a strong career in the pharmaceutical and data-driven industry,  
+applying CADD and data analytics skills to solve real-world problems.
+---
+ 📫 Connect With Me
+Location: Chattogram, Bangladesh
