@@ -1,18 +1,17 @@
-# Hi, I'm Sajib Debnath 
-
+# Hi, I'm Sajib Debnath
 🎓 Chemistry Graduate  
 💊 Computer Aided Drug Design (CADD) Enthusiast  
 📊 Aspiring Industry Professional  
 ---
 🔹 Skills
-- Computer Aided Drug Design (CADD)
-- Microsoft Excel
-- SQL (MySQL)
-- Power BI
+- Data Analytics (Excel, SQL, Power BI,python)  
+- Graphic Design (Photoshop, Illustrator, Canva)  
+- Computer Aided Drug Design (CADD)  
+- Data Entry  
 ---
-🎯 Career Goal
+ 🎯 Career Goal
 To build a strong career in the pharmaceutical and data-driven industry,  
-applying CADD and data analytics skills to solve real-world problems.
+applying CADD, analytics, and design skills to solve real-world problems.
 ---
- 📫 Connect With Me
+📫 Connect With Me
 Location: Chattogram, Bangladesh
